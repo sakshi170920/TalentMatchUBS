@@ -1,0 +1,10 @@
+gensim
+nltk
+pandas
+numpy
+requests
+PyPDF2
+termcolor
+plotly
+nbformat
+flask
